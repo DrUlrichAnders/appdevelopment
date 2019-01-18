@@ -77,6 +77,6 @@ https://overreacted.io/
   "[javascript]": {
     "editor.formatOnSave": true
   },
-  "cSpell.language": "en-GB, en, de",
+  "cSpell.language": "en-GB, en, de"
 }
 ```
