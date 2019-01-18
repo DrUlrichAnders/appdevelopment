@@ -12,11 +12,14 @@
    ========================================================================== */
 
 html {
-  padding: 1em;
-  color: #222;
   font-size: 1em;
   line-height: 1.4;
   font-family: sans-serif;
+}
+
+body {
+  padding: 1em;
+  color: #222;
 }
 
 /*
@@ -271,4 +274,26 @@ textarea {
   h3 {
     page-break-after: avoid;
   }
+}
+
+.flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background: #123456;
+  padding: 1em;
+}
+
+.box {
+  background: #fff;
+  width: 22%;
+}
+
+footer {
+  position: fixed;
+  left: 1em;
+  bottom: 0px;
+  height: 30px;
+  width: 100%;
+  font-size: small;
 }
