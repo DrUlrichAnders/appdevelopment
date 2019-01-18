@@ -73,9 +73,7 @@ https://overreacted.io/
   "editor.wordWrap": "wordWrapColumn",
   "editor.wordWrapColumn": 80,
   "javascript.validate.enable": false,
-  // Set the default
   "editor.formatOnSave": true,
-  // Enable per-language
   "[javascript]": {
     "editor.formatOnSave": true
   },
