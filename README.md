@@ -60,23 +60,23 @@ https://overreacted.io/
 ```JSON
 {
   "atomKeymap.promptV3Features": true,
+  "cSpell.language": "en-GB, en, de",
   "editor.multiCursorModifier": "ctrlCmd",
   "editor.formatOnPaste": true,
-  "prettier.eslintIntegration": true,
-  "prettier.semi": false,
-  "prettier.proseWrap": "always",
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 80,
+  "editor.formatOnSave": true,
   "editor.tabSize": 2,
-  "window.zoomLevel": 0,
   "files.associations": {
     "*.js": "javascriptreact"
   },
-  "editor.wordWrap": "wordWrapColumn",
-  "editor.wordWrapColumn": 80,
   "javascript.validate.enable": false,
-  "editor.formatOnSave": true,
   "[javascript]": {
     "editor.formatOnSave": true
   },
-  "cSpell.language": "en-GB, en, de"
+  "prettier.eslintIntegration": true,
+  "prettier.semi": false,
+  "prettier.proseWrap": "always",
+  "window.zoomLevel": 0
 }
 ```
