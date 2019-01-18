@@ -25,9 +25,11 @@ https://digital.netlify.com/cheatsheets#css
 
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-### JavaScript
+### JavaScript + ES
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+
+https://github.com/lukehoban/es6features
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 
@@ -45,6 +47,38 @@ https://redux.js.org/
 
 https://reacttraining.com/react-router/
 
+### Babel
+
+https://babeljs.io/
+
 ### Other
 
 https://overreacted.io/
+
+## VS Code
+
+```JSON
+{
+  "atomKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.formatOnPaste": true,
+  "prettier.eslintIntegration": true,
+  "prettier.semi": false,
+  "prettier.proseWrap": "always",
+  "editor.tabSize": 2,
+  "window.zoomLevel": 0,
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 80,
+  "javascript.validate.enable": false,
+  // Set the default
+  "editor.formatOnSave": true,
+  // Enable per-language
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "cSpell.language": "en-GB, en, de",
+}
+```
