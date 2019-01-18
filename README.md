@@ -39,6 +39,8 @@ https://reactjs.org/
 
 https://www.gatsbyjs.org/
 
+https://github.com/nfl/react-helmet
+
 https://redux.js.org/
 
 https://reacttraining.com/react-router/
