@@ -51,6 +51,12 @@ https://reacttraining.com/react-router/
 
 https://babeljs.io/
 
+### git, GitHub and git flow
+
+https://git-scm.com/book/en/v2
+
+https://datasift.github.io/gitflow/IntroducingGitFlow.html
+
 ### Other
 
 https://overreacted.io/
