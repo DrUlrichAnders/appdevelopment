@@ -25,6 +25,8 @@ https://digital.netlify.com/cheatsheets#css
 
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
+https://css-tricks.com/snippets/css/complete-guide-grid/
+
 ### JavaScript + ES
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
